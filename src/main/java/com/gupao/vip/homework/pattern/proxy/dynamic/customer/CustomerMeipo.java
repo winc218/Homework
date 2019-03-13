@@ -1,6 +1,7 @@
 package com.gupao.vip.homework.pattern.proxy.dynamic.customer;
 
-import com.example.javavip.proxy_demo.staticProxy.Person;
+
+import com.gupao.vip.homework.pattern.proxy.staticProxy.Person;
 
 import java.lang.reflect.Method;
 

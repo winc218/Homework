@@ -1,7 +1,8 @@
 package com.gupao.vip.homework.pattern.proxy.dynamic.customer;
 
-import com.example.javavip.proxy_demo.dynamic.jdk.Xiemu;
-import com.example.javavip.proxy_demo.staticProxy.Person;
+
+import com.gupao.vip.homework.pattern.proxy.dynamic.jdk.Xiemu;
+import com.gupao.vip.homework.pattern.proxy.staticProxy.Person;
 
 public class CustomerProxyTest{
     public static void main( String[] args ) {
