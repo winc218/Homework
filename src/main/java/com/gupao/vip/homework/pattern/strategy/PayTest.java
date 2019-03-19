@@ -1,7 +1,8 @@
 package com.gupao.vip.homework.pattern.strategy;
 
-import com.example.javavip.strategy_demo.pay.Order;
-import com.example.javavip.strategy_demo.pay.PayType;
+
+import com.gupao.vip.homework.pattern.strategy.pay.Order;
+import com.gupao.vip.homework.pattern.strategy.pay.PayType;
 
 public class PayTest {
     public static void main( String[] args ) {
